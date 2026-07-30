@@ -204,53 +204,23 @@ REST APIs
 
 # 🏅 Certifications
 
-<div align="center">
+\<div align="center">
 
-Insignia
+| Insignia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Certificación                                       | Emisor          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- |
+| \<a href="[https://www.credly.com/badges/c13a7d05-7710-4482-af51-08f64b5a7074/public\_url](https://www.credly.com/badges/c13a7d05-7710-4482-af51-08f64b5a7074/public_url)">\<img src="[https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/linkedin\_thumb\_image.png](https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/linkedin_thumb_image.png)" alt="Google Cloud Cybersecurity" width="100"/>\</a>                                                                                           | **Google Cloud Cybersecurity Certificate**          | Google Cloud    |
+| \<a href="[https://www.credly.com/badges/6596dd14-abd4-4c3d-acf6-cf68c0565313/public\_url](https://www.credly.com/badges/6596dd14-abd4-4c3d-acf6-cf68c0565313/public_url)">\<img src="[https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/linkedin\_thumb\_image.png](https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/linkedin_thumb_image.png)" alt="Google Cloud Computing Foundations" width="100"/>\</a>                                                                                   | **Google Cloud Computing Foundations Certificate**  | Google Cloud    |
+| \<a href="[https://www.credly.com/badges/fab108d0-9bdb-49d3-a50f-9caa365459bb/public\_url](https://www.credly.com/badges/fab108d0-9bdb-49d3-a50f-9caa365459bb/public_url)">\<img src="[https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin\_thumb\_I2CS\_\_1\_.png](https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png)" alt="Introduction to Cybersecurity" width="100"/>\</a>                                                                               | **Introduction to Cybersecurity**                   | Cisco           |
+| \<a href="[https://www.credly.com/badges/e4685259-6eba-4a02-85d1-5f03ab4f5992/public\_url](https://www.credly.com/badges/e4685259-6eba-4a02-85d1-5f03ab4f5992/public_url)">\<img src="[https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin\_thumb\_image.png](https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin_thumb_image.png)" alt="Networking Basics" width="100"/>\</a>                                                                                                    | **Networking Basics**                               | Cisco           |
+| \<a href="[https://www.credly.com/badges/e03252cc-2f48-44bb-9923-0c74be5c4230/public\_url](https://www.credly.com/badges/e03252cc-2f48-44bb-9923-0c74be5c4230/public_url)">\<img src="[https://images.credly.com/images/1d3340b2-71cd-4b78-a395-94c67dd462aa/linkedin\_thumb\_blob](https://images.credly.com/images/1d3340b2-71cd-4b78-a395-94c67dd462aa/linkedin_thumb_blob)" alt="English for IT: Advice and Time" width="100"/>\</a>                                                                                                | **English for IT: Advice and Time**                 | Cisco           |
+| \<a href="[https://www.credly.com/badges/a14f87c1-cb75-415d-84ab-de4d56082348/public\_url](https://www.credly.com/badges/a14f87c1-cb75-415d-84ab-de4d56082348/public_url)">\<img src="[https://images.credly.com/images/4f76c627-c180-49ae-a5a0-742885eef581/linkedin\_thumb\_Working\_in\_a\_Digital\_World-\_Professional\_Skills.png](https://images.credly.com/images/4f76c627-c180-49ae-a5a0-742885eef581/linkedin_thumb_Working_in_a_Digital_World-_Professional_Skills.png)" alt="Working in a Digital World" width="100"/>\</a> | **Working in a Digital World: Professional Skills** | IBM SkillsBuild |
 
-Certificación
+👉 Ver todas las credenciales en [credly.com/users/israel-flores.it](https://www.credly.com/users/israel-flores.it)
 
-Emisor
+\</div>
 
-<a href="https://www.credly.com/badges/c13a7d05-7710-4482-af51-08f64b5a7074/public_url"><img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/linkedin_thumb_image.png" alt="Google Cloud Cybersecurity" width="100"/></a>
+---
 
-Google Cloud Cybersecurity Certificate
-
-Google Cloud
-
-<a href="https://www.credly.com/badges/6596dd14-abd4-4c3d-acf6-cf68c0565313/public_url"><img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/linkedin_thumb_image.png" alt="Google Cloud Computing Foundations" width="100"/></a>
-
-Google Cloud Computing Foundations Certificate
-
-Google Cloud
-
-<a href="https://www.credly.com/badges/fab108d0-9bdb-49d3-a50f-9caa365459bb/public_url"><img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" alt="Introduction to Cybersecurity" width="100"/></a>
-
-Introduction to Cybersecurity
-
-Cisco
-
-<a href="https://www.credly.com/badges/e4685259-6eba-4a02-85d1-5f03ab4f5992/public_url"><img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin_thumb_image.png" alt="Networking Basics" width="100"/></a>
-
-Networking Basics
-
-Cisco
-
-<a href="https://www.credly.com/badges/e03252cc-2f48-44bb-9923-0c74be5c4230/public_url"><img src="https://images.credly.com/images/1d3340b2-71cd-4b78-a395-94c67dd462aa/linkedin_thumb_blob" alt="English for IT: Advice and Time" width="100"/></a>
-
-English for IT: Advice and Time
-
-Cisco
-
-<a href="https://www.credly.com/badges/a14f87c1-cb75-415d-84ab-de4d56082348/public_url"><img src="https://images.credly.com/images/4f76c627-c180-49ae-a5a0-742885eef581/linkedin_thumb_Working_in_a_Digital_World-_Professional_Skills.png" alt="Working in a Digital World" width="100"/></a>
-
-Working in a Digital World: Professional Skills
-
-IBM SkillsBuild
-
-👉 Ver todas las credenciales en credly.com/users/israel-flores.it
-
-</div>
 
 # 📈 GitHub Analytics
 
