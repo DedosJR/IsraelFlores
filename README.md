@@ -175,13 +175,13 @@ I enjoy designing production-like environments where I can implement enterprise 
 Replace YOUR_GITHUB_USERNAME below with your actual GitHub username to activate these stats.
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedosjr&show_icons=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedosjr)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedosjr&layout=compact)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dedosjr)
 
 ---
 
@@ -200,7 +200,7 @@ Replace YOUR_GITHUB_USERNAME below with your actual GitHub username to activate 
 
 [💼 LinkedIn](https://www.linkedin.com/in/israel-flores-it/)
 [🏅 Credly](https://www.credly.com/users/israel-flores.it)
-[💻 GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+[💻 GitHub](https://github.com/dedosjr)
 
 ---
 
